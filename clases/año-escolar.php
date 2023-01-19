@@ -5,6 +5,7 @@ class Año_Escolar {
 	private $idAño_Escolar;
 	private $Inicio_Año_Escolar;
 	private $Fin_Año_Escolar;
+	//estoy probando si esto funciona
 
 	public function __construct() {
 		//Calcula el año escolar en curso segun la fecha del servidor
